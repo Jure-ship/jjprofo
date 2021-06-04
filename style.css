@@ -760,10 +760,10 @@ justify-content: center;
         transform: rotate(360deg);
       }
       .bot2 {
-        min-height: 60vh;
+        min-height: 40vh;
       }
       .bot3 {
-        min-height: 70vh;
+        min-height: 60vh;
       }
       .container1 .box {
         width: 650px;
@@ -783,7 +783,8 @@ justify-content: center;
         margin-left: 15%;
       }
       .footer {
-        margin-top: -4%;
+        margin-top: -80%;
+        margin-left:10%;
       }
       .footer .sec {
         float: left;
